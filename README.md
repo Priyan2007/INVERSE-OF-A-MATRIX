@@ -19,7 +19,7 @@ import numpy as np
 A=np.array([(2,1,1),(1,1,1),(1,-1,2)])
 result=np.linalg.inv(A)
 print(result)
-```git
+```
 ## Output:
 ![output](/exp3.png)
 ## Result:
