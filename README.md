@@ -12,6 +12,7 @@ To write a python program to find the inverse of a matrix
 
 ## Program:
 ## Output:
+![output](/exp3.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
